@@ -13887,8 +13887,8 @@ Source: AVX .. aphvc.pdf</description>
 <attribute name="NAME" x="80.264" y="56.261" size="1.778" layer="95"/>
 <attribute name="VALUE" x="80.264" y="51.181" size="1.778" layer="96"/>
 </instance>
-<instance part="P+1" gate="VCC" x="78.74" y="68.58" smashed="yes">
-<attribute name="VALUE" x="76.2" y="66.04" size="1.778" layer="96" rot="R90"/>
+<instance part="P+1" gate="VCC" x="78.74" y="73.66" smashed="yes">
+<attribute name="VALUE" x="76.2" y="71.12" size="1.778" layer="96" rot="R90"/>
 </instance>
 <instance part="GND1" gate="1" x="35.56" y="35.56" smashed="yes">
 <attribute name="VALUE" x="33.02" y="33.02" size="1.778" layer="96"/>
@@ -13925,7 +13925,7 @@ Source: AVX .. aphvc.pdf</description>
 <wire x1="78.74" y1="58.42" x2="78.74" y2="63.5" width="0.1524" layer="91"/>
 <wire x1="78.74" y1="63.5" x2="68.58" y2="63.5" width="0.1524" layer="91"/>
 <pinref part="P+1" gate="VCC" pin="VCC"/>
-<wire x1="78.74" y1="66.04" x2="78.74" y2="63.5" width="0.1524" layer="91"/>
+<wire x1="78.74" y1="71.12" x2="78.74" y2="63.5" width="0.1524" layer="91"/>
 <junction x="78.74" y="63.5"/>
 </segment>
 </net>
